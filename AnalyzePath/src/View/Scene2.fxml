@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="154.0" prefWidth="279.0" style="-fx-background-color: #ceebf6; -fx-border-color: #ff3939;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller.Controller2">
+   <children>
+      <Label alignment="CENTER" layoutY="14.0" prefHeight="17.0" prefWidth="279.0" text="ANALYZE RESULT" />
+      <Label fx:id="label1" layoutX="14.0" layoutY="38.0" text="Disk :" />
+      <Label fx:id="label2" layoutX="14.0" layoutY="60.0" text="Extension :" />
+      <Label fx:id="label3" layoutX="14.0" layoutY="84.0" text="FileName :" />
+      <Label fx:id="label4" layoutX="14.0" layoutY="108.0" text="Path :" />
+      <Label fx:id="label5" layoutX="14.0" layoutY="132.0" text="Folder :" />
+   </children>
+</AnchorPane>
